@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13ac3e3a.css",
+    "main.js": "/static/js/main.ca6c2f16.js",
+    "static/media/cryptostats-logo.png": "/static/media/cryptostats-logo.723ce10baf2428ba9316.png",
+    "static/media/sert.png": "/static/media/sert.f67d6eb3b9d8dbeac098.png",
+    "static/media/pism.png": "/static/media/pism.c9005f812d39610c999c.png",
+    "static/media/admin.png": "/static/media/admin.c1c6b960b6e41e3e81c9.png",
+    "static/media/cont.png": "/static/media/cont.2a173e54cd9290e64b0e.png",
+    "static/media/crypto.jpg": "/static/media/crypto.7a7850b9b24a283edf13.jpg",
+    "static/media/admin.jpg": "/static/media/admin.6b9c785950e0582d0e93.jpg",
+    "static/media/todo.jpg": "/static/media/todo.8b9304e4f7c61fa1007d.jpg",
+    "static/media/avatar.jpg": "/static/media/avatar.1b53b14e6e88170a6a86.jpg",
+    "static/media/qrcode.jpg": "/static/media/qrcode.09aa05ba9f8c2192f899.jpg",
+    "static/media/placeholder.png": "/static/media/placeholder.bf071aaeb50fce784f9c.png",
+    "index.html": "/index.html",
+    "main.13ac3e3a.css.map": "/static/css/main.13ac3e3a.css.map",
+    "main.ca6c2f16.js.map": "/static/js/main.ca6c2f16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13ac3e3a.css",
+    "static/js/main.ca6c2f16.js"
+  ]
+}
